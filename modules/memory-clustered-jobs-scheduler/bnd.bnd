@@ -1,0 +1,4 @@
+Bundle-Name: memory-clustered-jobs-scheduler
+Bundle-SymbolicName: com.liferay.samples.fbo.memory.clustered
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.samples.fbo.memory.clustered.api
